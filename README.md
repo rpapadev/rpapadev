@@ -2,14 +2,14 @@
 import Desenvolvedor from 'RafaelPapa.dev';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Rafael Papa';
-  area    = 'Desenvolvimento Web Full Stack';
-  trabalho  = 'Atualmente trabalho como engenheiro de transmissão e faço desenvolvimento como hobby';
+  nome = 'Rafael Papa';
+  area = 'Desenvolvimento Web Full Stack';
+  trabalho = 'Atualmente trabalho como engenheiro de transmissão e faço desenvolvimento como hobby';
   local = 'São Paulo - SP';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML, CSS, JavaScript, PHP, Python'];
+  linguagens = ['HTML, CSS, JavaScript, PHP, Python'];
   frameworks = ['Firebase, NodeJS, ReactJs'];
 }
 ```
