@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['HTML, CSS, JavaScript, PHP, Python'];
-  frameworks = ['Firebase, NodeJS, reactJs'];
+  frameworks = ['Firebase, NodeJS, ReactJs'];
 }
 ```
 
