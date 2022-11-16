@@ -4,7 +4,7 @@ import Desenvolvedor from 'RafaelPapa.dev';
 class SobreMim extends Desenvolvedor {
   nome = 'Rafael Papa';
   area = 'Desenvolvimento Web Full Stack';
-  trabalho = 'Atualmente trabalho como engenheiro de transmissão e faço desenvolvimento como hobby';
+  trabalho = 'Atualmente trabalho como engenheiro de transmissão e faço desenvolvimento web como hobby';
   local = 'São Paulo - SP';
 }
 
